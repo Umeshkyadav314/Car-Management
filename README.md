@@ -16,7 +16,7 @@ A full-stack web application that allows users to manage their cars, including c
 ### 1. **Login Page**  
 Here’s what the login page looks like:
 
-![Login Page](./images/image1.png)
+![Login Page](./frontend/images/image1.png)
 
 - Users can log in using their email and password.
 - Provides error messages if credentials are incorrect.
@@ -24,7 +24,7 @@ Here’s what the login page looks like:
 ### 2. **Register Page**  
 The registration page for new users:
 
-![Register Page](./images/image2.png)
+![Register Page](./frontend/imagesimage2.png)
 
 - Users can sign up by providing a username, email, and password.
 - Includes form validation to ensure required fields are filled.
@@ -32,7 +32,7 @@ The registration page for new users:
 ### 3. **Home Page**  
 The home dashboard where users can manage cars:
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./frontend/images/image3.png)
 
 - Displays a dashboard with links to view, add, or manage cars.
 - Shows an overview of the user's cars and options to navigate to the car management section.
@@ -40,7 +40,7 @@ The home dashboard where users can manage cars:
 ### 4. **Car Create Section**  
 Where users can add a new car listing:
 
-![Car Create Page](./screenshots/car-create.png)
+![Car Create Page](./frontend/images/image4.png)
 
 - Users can add a new car by providing a title, description, and selecting tags such as car type, company, and dealer.
 - Allows uploading up to 10 images for each car listing.
@@ -48,7 +48,7 @@ Where users can add a new car listing:
 ### 5. **Car List Page**  
 A list of all cars added by the user:
 
-![Car List Page](./screenshots/car-list.png)
+![Car List Page](./frontend/images/image5.png)
 
 - Displays all cars added by the logged-in user.
 - Each car in the list shows basic information such as title, image thumbnails, and key details.
@@ -57,7 +57,7 @@ A list of all cars added by the user:
 ### 6. **Car Details Page**  
 Detailed information about a specific car:
 
-![Car Details Page](./screenshots/car-details.png)
+![Car Details Page](./frontend/images/image6.png)
 
 - Displays detailed information about a specific car when clicked.
 - Shows the full description, all uploaded images, and tags (car type, company, dealer).

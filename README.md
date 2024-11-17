@@ -24,7 +24,7 @@ Here’s what the login page looks like:
 ### 2. **Register Page**  
 The registration page for new users:
 
-![Register Page](./frontend/imagesimage2.png)
+![Register Page](./frontend/images/images2.png)
 
 - Users can sign up by providing a username, email, and password.
 - Includes form validation to ensure required fields are filled.

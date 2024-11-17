@@ -16,7 +16,7 @@ A full-stack web application that allows users to manage their cars, including c
 ### 1. **Login Page**  
 Here’s what the login page looks like:
 
-![Login Page](./screenshots/login-page.png)
+![Login Page](./images/image1.png)
 
 - Users can log in using their email and password.
 - Provides error messages if credentials are incorrect.
@@ -24,7 +24,7 @@ Here’s what the login page looks like:
 ### 2. **Register Page**  
 The registration page for new users:
 
-![Register Page](./screenshots/register-page.png)
+![Register Page](./images/image2.png)
 
 - Users can sign up by providing a username, email, and password.
 - Includes form validation to ensure required fields are filled.
@@ -65,8 +65,6 @@ Detailed information about a specific car:
 ### 7. **Search Page**  
 Where users can search for cars based on various criteria:
 
-![Screenshot 1](./images/image1.png)
-![Screenshot 1](./images/image2.png)
 
 - Allows users to search for cars based on various criteria like car type, company, and dealer.
 - Displays filtered results based on the search input.
